@@ -3,7 +3,7 @@ body {
 }
 
 .acc {
-    height: 100vh;
+    height: 100dvh;
     background-color: aqua;
     display: flex;
     justify-content: center;
@@ -11,12 +11,12 @@ body {
 }
 
 .acc2 {
-    height: 100vh;
+    height: 100dvh;
     background-color: rgb(4, 0, 255);
 }
 
 .acc3 {
-    height: 100vh;
+    height: 100dvh;
     background-color: rgb(217, 255, 0);
 }
 
