@@ -1,0 +1,29 @@
+body {
+    margin: 0px;
+}
+
+.acc {
+    height: 100vh;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}
+
+.acc2 {
+    height: 100vh;
+    background-color: rgb(4, 0, 255);
+}
+
+.acc3 {
+    height: 100vh;
+    background-color: rgb(217, 255, 0);
+}
+
+.menu {
+    padding: 20px 25px;
+    background-color: brown;
+
+    color: white;
+
+}
